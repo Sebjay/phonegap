@@ -1,0 +1,16 @@
+body,h1,div,input{
+	margin: 0 auto;
+	max-width: 960px;
+}
+#boutonRetrait{
+	max-width: 235px;
+	background-color: rgba(148, 025, 41, 0.9);
+	text-align: center;
+		}
+#boutonRetrait:hover {
+	cursor: pointer;
+	background-color: rgba(148, 065, 141, 0.9);
+		}
+div{
+	margin: 2em 2em;
+}
